@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Gordon Ramsay Bar & Grill - Mayfair (UK)",
+    "latitude": 51.509865,
+    "longitude": -0.139526
+  },
+  {
+    "id": 2,
+    "name": "Café de l’Homme (France)",
+    "latitude": 48.8635,
+    "longitude": 2.2871
+  },
+  {
+    "id": 3,
+    "name": "Brenner's on the Bayou (USA)",
+    "latitude": 29.7598,
+    "longitude": -95.3635
+  },
+  {
+    "id": 4,
+    "name": "Bonde Boca (Brazil)",
+    "latitude": -22.9519,
+    "longitude": -43.2105
+  },
+  {
+    "id": 5,
+    "name": "Falafel Hakosem (Israel)",
+    "latitude": 32.0662,
+    "longitude": 34.7731
+  },
+  {
+    "id": 6,
+    "name": "Indian Accent (India)",
+    "latitude": 28.5913,
+    "longitude": 77.2274
+  },
+  {
+    "id": 7,
+    "name": "Saltz (Bangladesh)",
+    "latitude": 23.8155,
+    "longitude": 90.4181
+  },
+  {
+    "id": 8,
+    "name": "Noma (Denmark)",
+    "latitude": 55.6823,
+    "longitude": 12.5939
+  },
+  {
+    "id": 9,
+    "name": "Osteria Francescana (Italy)",
+    "latitude": 44.6471,
+    "longitude": 10.9252
+  },
+  {
+    "id": 10,
+    "name": "Aragosta (Japan)",
+    "latitude": 35.6691,
+    "longitude": 139.7617
+  },
+  {
+    "id": 11,
+    "name": "Anajak Thai (Thailand)",
+    "latitude": 13.7475,
+    "longitude": 100.5383
+  },
+  {
+    "id": 12,
+    "name": "La Colombe (South Africa)",
+    "latitude": -33.9272,
+    "longitude": 18.4155
+  },
+  {
+    "id": 13,
+    "name": "El Celler de Can Roca (Spain)",
+    "latitude": 41.9973,
+    "longitude": 2.8169
+  },
+  {
+    "id": 14,
+    "name": "Attica (Australia)",
+    "latitude": -37.8166,
+    "longitude": 144.9837
+  },
+  {
+    "id": 15,
+    "name": "Pujol (Mexico)",
+    "latitude": 19.4326,
+    "longitude": -99.1332
+  },
+  {
+    "id": 16,
+    "name": "Geranium (Denmark)",
+    "latitude": 55.6867,
+    "longitude": 12.5887
+  },
+  {
+    "id": 17,
+    "name": "Central (Peru)",
+    "latitude": -12.0464,
+    "longitude": -77.0428
+  },
+  {
+    "id": 18,
+    "name": "Nusr-Et Steakhouse (Turkey)",
+    "latitude": 41.0766,
+    "longitude": 29.0524
+  },
+  {
+    "id": 19,
+    "name": "Jungsik (South Korea)",
+    "latitude": 37.5665,
+    "longitude": 126.978
+  },
+  {
+    "id": 20,
+    "name": "Joe Beef (Canada)",
+    "latitude": 45.5017,
+    "longitude": -73.5594
+  }
+]
